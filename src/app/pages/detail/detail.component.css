@@ -1,0 +1,9 @@
+span {
+    display: inline-block;
+    width: 50px;
+    color: red;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

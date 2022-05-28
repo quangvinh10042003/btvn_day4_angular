@@ -1,0 +1,10 @@
+td,
+th {
+    padding: 15px 50px;
+    text-align: center;
+}
+
+table {
+    width: 905px;
+    margin: auto;
+}
